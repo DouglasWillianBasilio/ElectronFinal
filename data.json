@@ -1,0 +1,29 @@
+[
+    {
+      "nome": "João Silva",
+      "cargo": "CEO",
+      "descricao": "Diretor Executivo",
+      "subordinados": [
+        {
+          "nome": "Maria Souza",
+          "cargo": "Gerente de Marketing",
+          "descricao": "Lidera o time de marketing",
+          "subordinados": []
+        },
+        {
+          "nome": "Carlos Lima",
+          "cargo": "Gerente de Tecnologia",
+          "descricao": "Lidera o time de TI",
+          "subordinados": [
+            {
+              "nome": "Pedro Rocha",
+              "cargo": "Desenvolvedor",
+              "descricao": "Front-end Developer",
+              "subordinados": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
